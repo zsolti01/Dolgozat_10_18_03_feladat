@@ -9,7 +9,7 @@ namespace Dolgozat_10_18_03_feladat
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void diakpontszam()
         {
             // 3. feladat
 
@@ -55,6 +55,10 @@ namespace Dolgozat_10_18_03_feladat
             Console.WriteLine("A legalacsonyabb pontszám: {0}", kicsi);
             if (elegtelen == true) Console.WriteLine("Van elégtelen pontszám!");
             else Console.WriteLine("Nem volt elégtelen pontszám!");
+        }
+        static void Main(string[] args)
+        {
+            diakpontszam();
         }
     }
 }
