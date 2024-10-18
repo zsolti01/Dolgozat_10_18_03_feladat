@@ -1,0 +1,7 @@
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\bin\Debug\Dolgozat_10_18_03_feladat.exe.config
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\bin\Debug\Dolgozat_10_18_03_feladat.exe
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\bin\Debug\Dolgozat_10_18_03_feladat.pdb
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\obj\Debug\Dolgozat_10_18_03_feladat.csproj.AssemblyReference.cache
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\obj\Debug\Dolgozat_10_18_03_feladat.csproj.CoreCompileInputs.cache
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\obj\Debug\Dolgozat_10_18_03_feladat.exe
+C:\Users\vecseizs\Gitwork\Dolgozat_10_18\Dolgozat_10_18_03_feladat\obj\Debug\Dolgozat_10_18_03_feladat.pdb
